@@ -1,0 +1,16 @@
+.navbar */*, .navbar a*/ {
+    color: #3A3E4A;
+    text-decoration: none;
+}
+
+.navbar {
+    font-size: 20px;
+}
+
+.navbar-home {
+    font-size: 24px;
+}
+
+.navbar-buttons {
+    /* add stuff here */
+}
